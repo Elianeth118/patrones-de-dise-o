@@ -1,0 +1,14 @@
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\bin\Debug\net8.0\Singleton.ThreadSafe.exe
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\bin\Debug\net8.0\Singleton.ThreadSafe.deps.json
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\bin\Debug\net8.0\Singleton.ThreadSafe.runtimeconfig.json
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\bin\Debug\net8.0\Singleton.ThreadSafe.dll
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\bin\Debug\net8.0\Singleton.ThreadSafe.pdb
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\obj\Debug\net8.0\Singleton.ThreadSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\obj\Debug\net8.0\Singleton.ThreadSafe.AssemblyInfoInputs.cache
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\obj\Debug\net8.0\Singleton.ThreadSafe.AssemblyInfo.cs
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\obj\Debug\net8.0\Singleton.ThreadSafe.csproj.CoreCompileInputs.cache
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\obj\Debug\net8.0\Singleton.ThreadSafe.dll
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\obj\Debug\net8.0\refint\Singleton.ThreadSafe.dll
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\obj\Debug\net8.0\Singleton.ThreadSafe.pdb
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\obj\Debug\net8.0\Singleton.ThreadSafe.genruntimeconfig.cache
+C:\Users\arago\source\repos\Singleton.ThreadSafe\Singleton.ThreadSafe\obj\Debug\net8.0\ref\Singleton.ThreadSafe.dll
