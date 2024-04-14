@@ -1,0 +1,14 @@
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\bin\Debug\net8.0\Builder.Ejemplo1.exe
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\bin\Debug\net8.0\Builder.Ejemplo1.deps.json
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\bin\Debug\net8.0\Builder.Ejemplo1.runtimeconfig.json
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\bin\Debug\net8.0\Builder.Ejemplo1.dll
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\bin\Debug\net8.0\Builder.Ejemplo1.pdb
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\obj\Debug\net8.0\Builder.Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\obj\Debug\net8.0\Builder.Ejemplo1.AssemblyInfoInputs.cache
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\obj\Debug\net8.0\Builder.Ejemplo1.AssemblyInfo.cs
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\obj\Debug\net8.0\Builder.Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\obj\Debug\net8.0\Builder.Ejemplo1.dll
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\obj\Debug\net8.0\refint\Builder.Ejemplo1.dll
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\obj\Debug\net8.0\Builder.Ejemplo1.pdb
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\obj\Debug\net8.0\Builder.Ejemplo1.genruntimeconfig.cache
+C:\Users\arago\source\repos\Builder.Ejemplo1\Builder.Ejemplo1\obj\Debug\net8.0\ref\Builder.Ejemplo1.dll
